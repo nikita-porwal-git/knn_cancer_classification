@@ -1,15 +1,9 @@
 # -*- coding: utf-8 -*-
 """
 Created on Mon Jan 20 15:23:21 2020
-#author: TechMate MG
-#Email - techmatemg@gmail.com
-#Website - techmatemg.com
-#WhatsApps - +91-8508319999
-#Instagram - instagram.com/techmatemg
-#twitter - @TechMateM
-#facebook - facebook.com/techmate.mg
-#LinkedIn - linkedin.com/in/techmate-mg
-#Quora - quora.com/profile/TechMate MG
+#author: Nikita Porwal
+#Email - nikitaporwal05@gmail.com
+#LinkedIn - https://www.linkedin.com/in/nikita-porwal/
 """
 
 #kNN
