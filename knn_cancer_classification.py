@@ -12,7 +12,7 @@ import numpy as np
 import pandas as pd
 
 #Impoting the Data
-cancerdata = pd.read_csv(r"/Users/vaibhavi/Desktop/kNN/cancerdata.csv")
+cancerdata = pd.read_csv(r"/Users/nikita/Desktop/kNN/cancerdata.csv")
 
 #Loading our custom functions
 
